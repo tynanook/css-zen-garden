@@ -1,0 +1,13 @@
+
+Part One: Redesign Concepts - Ty Sullins, 2015-10-30
+---------------------------
+
+I chose to use the theme of ‘a road’ to use re-designing the Zen Garden page. Using the phrase of ‘to enlightenment', I will try to convey to the user that after participating in this re-design, enlightenment is reached, as reflected by her reaching ‘the designs’ section at the end of the page.  
+
+I will attempt to use many pseudo elements to animate and graphically highlight the header page, text, paragraph formatting, icons and images. I will use CSS to present different graphics and formatting depending on screen size. I’m hoping to jump to a section in the page, which can be challenging since the index.html file can not be modified.
+
+I came up with ideas after reviewing many websites. Here are some sites that are inspirational to me:
+
+http://inspirationvoyage.hellotrip.fr/
+http://www.vanschneider.com/show/
+http://www.roadiz.io/
